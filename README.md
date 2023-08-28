@@ -1,0 +1,2 @@
+# sweta
+details about git
